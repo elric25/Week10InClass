@@ -32,6 +32,7 @@ header{
     background-image: url(../img/192.jpg);
     background-size: 100% auto;
     background-position: center center;
+    color: orange;
 }
 header h1{
     font-size: 4rem;
